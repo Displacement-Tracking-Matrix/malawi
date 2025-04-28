@@ -1,0 +1,11 @@
+---
+title: "Other page"
+---
+
+## Section
+
+{{< lipsum 3 >}}
+
+## Another section
+
+{{< lipsum 4 >}}

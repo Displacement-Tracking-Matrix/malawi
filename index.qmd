@@ -1,0 +1,124 @@
+---
+title: "First page title"
+subtitle: 'First page subtitle subtitle'
+author: Displacement Tracking Matrix
+affilliation: International Organization for Migration (IOM)
+date: today
+date-format: D MMMM YYYY
+---
+
+## Introduction
+
+Test2
+
+Test3
+
+{{< lipsum 1 >}}
+
+### Assessment period
+
+{{< lipsum 1 >}}
+
+### Methodology
+
+{{< lipsum 1 >}}
+
+### Coverage
+
+{{< lipsum 1 >}}
+
+### Methodology
+
+#### Method
+
+#### Limitatations
+
+#### Data access
+
+test
+
+{{< lipsum 1 >}}
+
+## Overview
+
+Number of assessed locations with the number of locations with arrivals; departures and returnees.
+
+Number of assessed locations by settlement type.
+
+Population by movement type.
+
+Demographic breakdown for arrivals and returnees.
+
+Population and assessed locations brken down by urban/rural classification.
+
+{{< lipsum 2 >}}
+
+## Displacement
+
+
+
+{{< lipsum 2 >}}
+
+### Arrivals
+
+Total arrivals sankey of origin.
+
+Drivers of displacement.
+
+Reason for choosing location
+
+Provinces and districts of origin.
+
+Displacment type.
+
+{{< lipsum 2 >}}
+
+### Departures
+
+Total departures.
+
+Geo distribution of departures.
+
+Destination of largest group (bar). Network diagram.
+
+Drivers of displacement.
+
+{{< lipsum 2 >}}
+
+### Returns
+
+Total departures.
+
+Geo distribution of returnees.
+
+Time of arrival for the majority of returnees.
+
+Place of last displacmenet for returnees.
+
+Main reasons for returning.
+
+Main type of displacement type
+
+{{< lipsum 2 >}}
+
+## Needs
+
+Overall top needs.
+
+Corellation between needs and different geogrpahic areas - adm1 and adm2.
+
+{{< lipsum 2 >}}
+
+## Arrivals needs
+
+What are the top needs for arrivals. Compare to overall/returnees.
+
+Corellation between arrivals needs and different geogrpahic areas - adm1 and adm2.
+
+
+
+{{< lipsum 2 >}}
+
+## Returnees needs
+
+{{< lipsum 2 >}}

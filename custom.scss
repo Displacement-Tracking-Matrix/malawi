@@ -1,0 +1,17 @@
+/*-- scss:defaults --*/
+// colors
+$navbar-bg: #0033A0;
+$navbar-fg: #fefefe;
+$navbar-hl: #ffffff;
+$primary: #0033A0;
+$footer-fg: #ffffff;
+
+/*-- scss:rules --*/
+.quarto-title-banner h1, .quarto-title-banner .h1, .quarto-title-banner h2, .quarto-title-banner .h2 {
+    color: whited;
+}
+.quarto-title-banner {
+    margin-bottom: 1em;
+    color: #ffffff;
+    background: #0033A0;
+}

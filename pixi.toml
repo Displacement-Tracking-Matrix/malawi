@@ -1,0 +1,15 @@
+[workspace]
+channels = ["conda-forge"]
+name = "malawi"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+quarto = ">=1.6.42,<2"
+python = ">=3.8.0,<3.14"
+jupyter = ">=1.1.1,<2"
+
+[pypi-dependencies]
+polars = { version = "*", extras = ["deltalake"] }

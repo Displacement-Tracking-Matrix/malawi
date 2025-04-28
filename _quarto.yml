@@ -1,0 +1,82 @@
+project:
+  type: website
+  render: 
+    - index.qmd
+    - other.qmd
+  output-dir: "docs"
+
+tbl-cap-location: top
+# favicon: assets/icon.png
+open-graph: true
+  
+  
+website:
+  title: '![](assets/logo.svg){width=120} Analysis title'
+  navbar:
+    left:
+      - href: index.qmd
+        text: "Page1"
+      - href: other.qmd
+        text: "Page2"
+  announcement: 
+    icon: info-circle
+    dismissable: true
+    content: "**Alert** - this analysis is in draft stage"
+    type: warning
+    position: below-navbar
+  page-footer: 
+    background: primary
+    foreground: white
+    border: false
+    center: "Copyright 2025, International Organization for Migration" 
+    # right: 
+    #   - icon: github
+    #     href: https://github.com/
+    #   - icon: link
+    #     href: https://dtm.iom.int/ 
+
+
+format:
+  html:
+    theme: [cosmo, custom.scss]
+    fig-align: left
+    number-sections: true
+    html-table-processing: none
+    self-contained: true
+    code-fold: true
+    echo: false
+    toc: true
+    warning: false
+    code-overflow: wrap
+    default-image-extension: svg
+    smooth-scroll: true
+    other-links:
+      - text: Displacement Tracking Matrix
+        href: https://dtm.iom.int/
+      - text: International Organization for Migration
+        href: https://www.iom.int/
+      - text: Data download (external)
+        icon: file-excel
+        href: index.qmd
+      - text: Report download (external)
+        icon: file-pdf
+        href: index.qmd
+  typst: 
+    toc: true
+    section-numbering: 1.1.a
+    columns: 2
+  #epub: default
+  # revealjs: default
+
+format-links:
+  - html
+  - format: typst
+    text: PDF
+    icon: file-pdf
+  - format: epub
+    text: eBook
+    icon: book
+
+
+
+
