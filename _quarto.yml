@@ -21,7 +21,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "**Alert** - this analysis is in draft stage"
+    content: "**Alert** - this analysis is for demonstration purposes only."
     type: warning
     position: below-navbar
   page-footer: 
