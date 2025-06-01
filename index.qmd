@@ -34,9 +34,14 @@ Data was collected through onsite and online methods, depending on accessibility
 
 Data was collected in 78 Traditional Authorities, in 10 Districts, in 1 Province.
 
-[Map of coverage]
 
-{{< placeholder 800 400 format=svg >}}
+::: {#fig-map-coverage}
+
+![]({{< placeholder 800 400 format=svg >}}){.lightbox}
+
+Map of Traditional Authorities covered by the assessment.
+
+:::
 
 #### Limitations
 
@@ -54,7 +59,7 @@ The maps used in this dashboard are for illustration purposes only. Names and bo
 
 Number of assessed locations with the number of locations with arrivals; departures and returnees.
 
-67 locations reported [arrivals]{style="background-color: orange;"}; 59 locations reported [departures]{style="background-color: yellow;"}; and 60 locations reported [returnees]{style="background-color: lightgreen;"} (the maps will use the highlight colors.)
+67 locations reported [arrivals]{style="background-color: #F09362;"}; 59 locations reported [departures]{style="background-color: #F7CC69;"}; and 60 locations reported [returnees]{style="background-color: #94C8C4;"} (the maps will use the highlight colors.)
 
 
 ::: {#fig-movetype layout-ncol=3}
@@ -72,7 +77,7 @@ Map of assessed locations by movement type
 
 ::: {#fig-bar-loc-settlementtype}
 
-![]({{< placeholder 400 200 format=svg >}}){.lightbox}
+![]({{< placeholder 800 400 format=svg >}}){.lightbox}
 
 Number of assessed locations by settlement type
 
@@ -82,7 +87,7 @@ Number of assessed locations by settlement type
 
 {{< lipsum 1 >}}
 
-![]({{< placeholder 400 200 format=svg >}}){.lightbox}
+![]({{< placeholder 800 400 format=svg >}}){.lightbox}
 
 Number of assessed locations by urban/rural classification.
 
@@ -94,11 +99,11 @@ Number of assessed locations by urban/rural classification.
 
 Population by movement type. (individual and households)
 
-::: {#fig-movetype layout-ncol=2}
+::: {#fig-bar-movetype layout-ncol=2}
 
-![Individuals]({{< placeholder 400 200 format=svg >}}){#fig-movement-type-individuals}
+![Individuals]({{< placeholder 400 200 format=svg >}}){#fig-bar-movement-type-individuals}
 
-![Households]({{< placeholder 400 200 format=svg >}}){#fig-movement-type-households}
+![Households]({{< placeholder 400 200 format=svg >}}){#fig-bar-movement-type-households}
 
 
 Population by movement type
@@ -154,7 +159,7 @@ Destination of largest group (bar). Network diagram.
 
 Drivers of displacement.
 
-{{< lipsum 2 >}}
+{{< lipsum 1 >}}
 
 ### Returns
 
@@ -170,7 +175,7 @@ Main reasons for returning.
 
 Main type of displacement type
 
-{{< lipsum 2 >}}
+{{< lipsum 1 >}}
 
 ## Needs
 
@@ -178,7 +183,7 @@ Overall top needs.
 
 Corellation between needs and different geogrpahic areas - adm1 and adm2.
 
-{{< lipsum 2 >}}
+{{< lipsum 1 >}}
 
 ## Arrivals needs
 
@@ -188,8 +193,8 @@ Corellation between arrivals needs and different geogrpahic areas - adm1 and adm
 
 
 
-{{< lipsum 2 >}}
+{{< lipsum 1 >}}
 
 ## Returnees needs
 
-{{< lipsum 2 >}}
+{{< lipsum 1 >}}
