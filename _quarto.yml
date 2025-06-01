@@ -11,13 +11,13 @@ open-graph: true
   
   
 website:
-  title: '![](assets/logo.svg){width=120} Analysis title'
+  title: '![](assets/logo.svg){width=120} Malawi | Drought Response'
   navbar:
     left:
-      - href: index.qmd
-        text: "Page1"
-      - href: other.qmd
-        text: "Page2"
+       - href: index.qmd
+         text: " "
+      # - href: other.qmd
+      #   text: "Page2"
   announcement: 
     icon: info-circle
     dismissable: true
@@ -65,6 +65,7 @@ format:
     toc: true
     section-numbering: 1.1.a
     columns: 2
+    mainfont: "Roboto"
   #epub: default
   # revealjs: default
 

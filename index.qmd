@@ -1,6 +1,6 @@
 ---
-title: "First page title"
-subtitle: 'First page subtitle subtitle'
+title: "Malawi | Drought Response"
+subtitle: 'Needs and Access to Services'
 author: Displacement Tracking Matrix
 affilliation: International Organization for Migration (IOM)
 date: today
@@ -9,9 +9,6 @@ date-format: D MMMM YYYY
 
 ## Introduction
 
-Test2
-
-Test3
 
 {{< lipsum 1 >}}
 
@@ -21,43 +18,117 @@ Test3
 
 ### Methodology
 
-{{< lipsum 1 >}}
+The DTM drought assessment, supported by government partners and local stakeholders, targeted southern Malawi to identify districts (Admin2) and traditional authorities (Admin3) affected by drought-related displacement. Enumerators collected information about movements between November 2024 and 15 December 2024 through focus group discussions and key informants' interviews, focusing on the village headperson level (Admin4). These movements occurred since September 2023. The assessment focused on three types of movements: returnees, departures, and IDP arrivals.
 
-### Coverage
+Data was collected through onsite and online methods, depending on accessibility, using a mobile data collection form to ensure quality and integrity.
 
-{{< lipsum 1 >}}
+#### Definitions
 
-### Methodology
+**IDP Arrivals:** People that came to the traditional authority from another place in Malawi since September 2023 (Those that stayed or planning to stay for at least 3 months)
 
-#### Method
+**Departures:** People that left this traditional authority for more than 3 months and have not yet returned (Since September 2023)
 
-#### Limitatations
+**IDP Returnee:** People that had left the traditional authority for at least 3 months, but returned (Since September 2023)
 
-#### Data access
+#### Coverage
 
-test
+Data was collected in 78 Traditional Authorities, in 10 Districts, in 1 Province.
 
-{{< lipsum 1 >}}
+[Map of coverage]
+
+{{< placeholder 800 400 format=svg >}}
+
+#### Limitations
+
+Data was collected through focus group discussions and key informant interviews, both in-person and online, which have inherent limitations:
+- Results should be considered indicative rather than statistically representative
+- Information is based on perceptions and estimates from community leaders and key informants
+- Numbers reported are best estimates and should be interpreted as trends rather than exact figures
+- Coverage may be limited in some areas due to accessibility constraints
+
+#### Disclaimer
+The maps used in this dashboard are for illustration purposes only. Names and boundaries on the map do not imply official endorsement or acceptance by IOM.
+
 
 ## Overview
 
 Number of assessed locations with the number of locations with arrivals; departures and returnees.
 
-Number of assessed locations by settlement type.
+67 locations reported [arrivals]{style="background-color: orange;"}; 59 locations reported [departures]{style="background-color: yellow;"}; and 60 locations reported [returnees]{style="background-color: lightgreen;"} (the maps will use the highlight colors.)
 
-Population by movement type.
 
-Demographic breakdown for arrivals and returnees.
+::: {#fig-movetype layout-ncol=3}
 
-Population and assessed locations brken down by urban/rural classification.
+![Arrivals]({{< placeholder 400 200 format=svg >}}){#fig-map-locations-arrivals .lightbox}
 
-{{< lipsum 2 >}}
+![Departures]({{< placeholder 400 200 format=svg >}}){#fig-map-locations-departures .lightbox}
+
+![Returns]({{< placeholder 400 200 format=svg >}}){#fig-map-locations-returns .lightbox}
+
+Map of assessed locations by movement type
+:::
+
+{{< lipsum 1 >}}
+
+::: {#fig-bar-loc-settlementtype}
+
+![]({{< placeholder 400 200 format=svg >}}){.lightbox}
+
+Number of assessed locations by settlement type
+
+:::
+
+::: {#fig-bar-loc-urban}
+
+{{< lipsum 1 >}}
+
+![]({{< placeholder 400 200 format=svg >}}){.lightbox}
+
+Number of assessed locations by urban/rural classification.
+
+:::
+
+
 
 ## Displacement
 
+Population by movement type. (individual and households)
+
+::: {#fig-movetype layout-ncol=2}
+
+![Individuals]({{< placeholder 400 200 format=svg >}}){#fig-movement-type-individuals}
+
+![Households]({{< placeholder 400 200 format=svg >}}){#fig-movement-type-households}
 
 
-{{< lipsum 2 >}}
+Population by movement type
+:::
+
+{{< lipsum 1 >}}
+
+::: {#fig-pie-demographics layout-ncol=2}
+
+![Arrivals]({{< placeholder 400 200 format=svg >}}){#fig-pie-demographics-arrivals}
+
+![Returnees]({{< placeholder 400 200 format=svg >}}){#fig-pie-demographics-returnees}
+
+
+Demographic breakdown for arrivals and returnees.
+:::
+
+{{< lipsum  1 >}}
+
+::: {#fig-bar-loc-urban layout-ncol=2}
+
+![Locations]({{< placeholder 400 200 format=svg >}}){#fig-bar-loc-urban}
+
+![Population]({{< placeholder 400 200 format=svg >}}){#fig-bar-pop-urban}
+
+
+Urban/rural classification of locations and population
+
+:::
+
 
 ### Arrivals
 
