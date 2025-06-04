@@ -1,0 +1,434 @@
+﻿OBJECTID,COUNTRY,ISO3,ISO2,ADM1_NAME,ADM1_CODE,ADM1_ID,ADM1_Type,ADM2_NAME,ADM2_CODE,ADM2_ID,ADM2_Type,ADM3_NAME,ADM3_CODE,ADM3_ID,ADM3_Type,Latitude,Longitude
+184585,Malawi,MWI,MW,Northern,MW1,1,Region,Chitipa,MW101,1,District,TA Mwabulambya,MW10101,1,Traditional Area,-9.75936494,33.37210153
+184586,Malawi,MWI,MW,Northern,MW1,1,Region,Chitipa,MW101,1,District,STA Bulambya Songwe,MW10102,2,Traditional Area,-9.56364596,33.29099299
+184587,Malawi,MWI,MW,Northern,MW1,1,Region,Chitipa,MW101,1,District,TA Mwenemisuku,MW10103,3,Traditional Area,-9.74550812,33.53558568
+184588,Malawi,MWI,MW,Northern,MW1,1,Region,Chitipa,MW101,1,District,STA Lwangwa,MW10104,4,Traditional Area,-9.6621727,33.61269998
+184589,Malawi,MWI,MW,Northern,MW1,1,Region,Chitipa,MW101,1,District,TA Mwenewenya,MW10105,5,Traditional Area,-10.05879882,33.48084847
+184590,Malawi,MWI,MW,Northern,MW1,1,Region,Chitipa,MW101,1,District,TA Nthalire,MW10106,6,Traditional Area,-10.31555486,33.63549413
+184591,Malawi,MWI,MW,Northern,MW1,1,Region,Chitipa,MW101,1,District,STA Nthengatenga,MW10107,7,Traditional Area,-10.17292356,33.67862676
+184592,Malawi,MWI,MW,Northern,MW1,1,Region,Chitipa,MW101,1,District,STA Wavikaza,MW10108,8,Traditional Area,-10.42995961,33.64332225
+184593,Malawi,MWI,MW,Northern,MW1,1,Region,Chitipa,MW101,1,District,TA Kameme,MW10109,9,Traditional Area,-9.5239927,33.06439541
+184594,Malawi,MWI,MW,Northern,MW1,1,Region,Chitipa,MW101,1,District,Nyika Ntational Park-Chitipa,MW10110,10,Traditional Area,-10.41009386,33.8018529
+184595,Malawi,MWI,MW,Northern,MW1,1,Region,Chitipa,MW101,1,District,Chitipa Boma,MW10120,20,Traditional Area,-9.69972371,33.26770403
+184596,Malawi,MWI,MW,Northern,MW1,1,Region,Karonga,MW102,2,District,TA Kilupula,MW10201,1,Traditional Area,-9.76875785,33.80875601
+184597,Malawi,MWI,MW,Northern,MW1,1,Region,Karonga,MW102,2,District,TA Mwakaboko,MW10202,2,Traditional Area,-9.65741161,33.75418589
+184598,Malawi,MWI,MW,Northern,MW1,1,Region,Karonga,MW102,2,District,TA Kyungu,MW10203,3,Traditional Area,-10.01450176,33.79340536
+184599,Malawi,MWI,MW,Northern,MW1,1,Region,Karonga,MW102,2,District,TA Wasambo,MW10204,4,Traditional Area,-10.44646136,34.16783688
+184600,Malawi,MWI,MW,Northern,MW1,1,Region,Karonga,MW102,2,District,TA Mwirang'ombe,MW10205,5,Traditional Area,-10.30587561,34.07876898
+184601,Malawi,MWI,MW,Northern,MW1,1,Region,Karonga,MW102,2,District,Nyika National Park-Karonga,MW10206,6,Traditional Area,-10.35788022,33.96644989
+184602,Malawi,MWI,MW,Northern,MW1,1,Region,Karonga,MW102,2,District,Karonga Town,MW10220,20,Traditional Area,-9.94936701,33.91342926
+184603,Malawi,MWI,MW,Northern,MW1,1,Region,Nkhatabay,MW103,3,District,TA Kabunduli,MW10301,1,Traditional Area,-11.74540581,33.94465404
+184604,Malawi,MWI,MW,Northern,MW1,1,Region,Nkhatabay,MW103,3,District,TA Fukamapiri,MW10302,2,Traditional Area,-11.95620995,34.0451465
+184605,Malawi,MWI,MW,Northern,MW1,1,Region,Nkhatabay,MW103,3,District,TA Malenga Mzoma,MW10303,3,Traditional Area,-11.9118665,34.13648118
+184606,Malawi,MWI,MW,Northern,MW1,1,Region,Nkhatabay,MW103,3,District,TA Malanda,MW10304,4,Traditional Area,-11.80961543,34.14097426
+184607,Malawi,MWI,MW,Northern,MW1,1,Region,Nkhatabay,MW103,3,District,TA Zilakoma,MW10305,5,Traditional Area,-12.1172192,33.92217806
+184608,Malawi,MWI,MW,Northern,MW1,1,Region,Nkhatabay,MW103,3,District,TA Mankhambira,MW10306,6,Traditional Area,-11.68420366,34.27444625
+184609,Malawi,MWI,MW,Northern,MW1,1,Region,Nkhatabay,MW103,3,District,TA Fukamalaza,MW10307,7,Traditional Area,-11.73463876,34.20104571
+184610,Malawi,MWI,MW,Northern,MW1,1,Region,Nkhatabay,MW103,3,District,TA Mkumbira,MW10308,8,Traditional Area,-11.58967306,34.26767272
+184611,Malawi,MWI,MW,Northern,MW1,1,Region,Nkhatabay,MW103,3,District,TA M'bwana,MW10309,9,Traditional Area,-11.23307929,34.13565027
+184612,Malawi,MWI,MW,Northern,MW1,1,Region,Nkhatabay,MW103,3,District,STA Nyaluwanga,MW10310,10,Traditional Area,-11.3579117,34.13795559
+184613,Malawi,MWI,MW,Northern,MW1,1,Region,Nkhatabay,MW103,3,District,STA Kondowe,MW10311,11,Traditional Area,-11.07236093,34.17189344
+184614,Malawi,MWI,MW,Northern,MW1,1,Region,Nkhatabay,MW103,3,District,TA Timbiri,MW10312,12,Traditional Area,-11.53608386,34.18122073
+184615,Malawi,MWI,MW,Northern,MW1,1,Region,Nkhatabay,MW103,3,District,TA Boghoyo,MW10314,14,Traditional Area,-11.11462262,34.19231403
+184616,Malawi,MWI,MW,Northern,MW1,1,Region,Nkhatabay,MW103,3,District,Nkhatabay Boma,MW10320,20,Traditional Area,-11.60308069,34.28638389
+184617,Malawi,MWI,MW,Northern,MW1,1,Region,Rumphi,MW104,4,District,TA Chikulamayembe,MW10401,1,Traditional Area,-10.96527411,33.68353353
+184618,Malawi,MWI,MW,Northern,MW1,1,Region,Rumphi,MW104,4,District,TA Mwamlowe,MW10402,2,Traditional Area,-10.83812733,34.17491219
+184619,Malawi,MWI,MW,Northern,MW1,1,Region,Rumphi,MW104,4,District,TA Mwahenga,MW10403,3,Traditional Area,-10.84578781,34.00977536
+184620,Malawi,MWI,MW,Northern,MW1,1,Region,Rumphi,MW104,4,District,TA Mwalweni,MW10404,4,Traditional Area,-10.70308169,34.11242303
+184621,Malawi,MWI,MW,Northern,MW1,1,Region,Rumphi,MW104,4,District,STA Kachulu,MW10405,5,Traditional Area,-10.67394431,34.07210024
+184622,Malawi,MWI,MW,Northern,MW1,1,Region,Rumphi,MW104,4,District,STA Chapinduka,MW10406,6,Traditional Area,-10.96111915,34.18316534
+184623,Malawi,MWI,MW,Northern,MW1,1,Region,Rumphi,MW104,4,District,TA Mwankhunikira,MW10407,7,Traditional Area,-10.95693198,34.0749437
+184624,Malawi,MWI,MW,Northern,MW1,1,Region,Rumphi,MW104,4,District,TA Katumbi,MW10408,8,Traditional Area,-10.80316243,33.5382676
+184625,Malawi,MWI,MW,Northern,MW1,1,Region,Rumphi,MW104,4,District,STA Zolokere,MW10409,9,Traditional Area,-10.84758048,33.4646965
+184626,Malawi,MWI,MW,Northern,MW1,1,Region,Rumphi,MW104,4,District,STA Chisovya,MW10410,10,Traditional Area,-10.9635903,33.917068
+184627,Malawi,MWI,MW,Northern,MW1,1,Region,Rumphi,MW104,4,District,STA Njikula,MW10411,11,Traditional Area,-10.75794596,34.16018751
+184628,Malawi,MWI,MW,Northern,MW1,1,Region,Rumphi,MW104,4,District,Nyika National Park,MW10412,12,Traditional Area,-10.7110005,33.82933711
+184629,Malawi,MWI,MW,Northern,MW1,1,Region,Rumphi,MW104,4,District,Vwaza Marsh Reserve,MW10413,13,Traditional Area,-10.96114902,33.42170634
+184630,Malawi,MWI,MW,Northern,MW1,1,Region,Rumphi,MW104,4,District,Rumphi Boma,MW10420,20,Traditional Area,-11.01801629,33.85867543
+184631,Malawi,MWI,MW,Northern,MW1,1,Region,Mzimba,MW105,5,District,TA M'Mbelwa,MW10501,1,Traditional Area,-12.02139883,33.41448922
+184632,Malawi,MWI,MW,Northern,MW1,1,Region,Mzimba,MW105,5,District,TA Mtwalo,MW10502,2,Traditional Area,-11.29363137,33.81480146
+184633,Malawi,MWI,MW,Northern,MW1,1,Region,Mzimba,MW105,5,District,TA Kampingo Sibande,MW10503,3,Traditional Area,-11.67941102,33.74814722
+184634,Malawi,MWI,MW,Northern,MW1,1,Region,Mzimba,MW105,5,District,TA Jaravikuba Munthali,MW10504,4,Traditional Area,-11.05327848,33.97080622
+184635,Malawi,MWI,MW,Northern,MW1,1,Region,Mzimba,MW105,5,District,TA Chindi,MW10505,5,Traditional Area,-11.5651946,33.43944131
+184636,Malawi,MWI,MW,Northern,MW1,1,Region,Mzimba,MW105,5,District,TA Mzikubola,MW10506,6,Traditional Area,-12.11490134,33.65030163
+184637,Malawi,MWI,MW,Northern,MW1,1,Region,Mzimba,MW105,5,District,TA Mabulabo,MW10507,7,Traditional Area,-12.57889118,33.65073593
+184638,Malawi,MWI,MW,Northern,MW1,1,Region,Mzimba,MW105,5,District,TA Khosolo Gwaza Jere,MW10508,8,Traditional Area,-12.51283115,33.84345172
+184639,Malawi,MWI,MW,Northern,MW1,1,Region,Mzimba,MW105,5,District,TA Mpherembe,MW10509,9,Traditional Area,-11.25991814,33.54293624
+184640,Malawi,MWI,MW,Northern,MW1,1,Region,Mzimba,MW105,5,District,TA Mzukuzuku,MW10510,10,Traditional Area,-12.1675368,33.43765909
+184641,Malawi,MWI,MW,Northern,MW1,1,Region,Mzimba,MW105,5,District,STA Levi Jere,MW10511,11,Traditional Area,-12.38241066,33.64114175
+184642,Malawi,MWI,MW,Northern,MW1,1,Region,Mzimba,MW105,5,District,Vwaza Marsh Reserve,MW10512,12,Traditional Area,-11.10664428,33.48649153
+184643,Malawi,MWI,MW,Northern,MW1,1,Region,Mzimba,MW105,5,District,Mzimba Boma,MW10520,20,Traditional Area,-11.90154487,33.59193567
+184644,Malawi,MWI,MW,Northern,MW1,1,Region,Likoma,MW106,6,District,TA Mkumpha,MW10601,1,Traditional Area,-12.06100235,34.71428565
+184645,Malawi,MWI,MW,Northern,MW1,1,Region,Likoma,MW106,6,District,Likoma Boma,MW10620,20,Traditional Area,-12.06320539,34.73779901
+184646,Malawi,MWI,MW,Northern,MW1,1,Region,Mzuzu City,MW107,7,District,Chibavi East Ward,MW10701,1,Traditional Area,-11.44426839,34.00484708
+184647,Malawi,MWI,MW,Northern,MW1,1,Region,Mzuzu City,MW107,7,District,Chibavi West Ward,MW10702,2,Traditional Area,-11.44627378,34.00101873
+184648,Malawi,MWI,MW,Northern,MW1,1,Region,Mzuzu City,MW107,7,District,Chibanja Ward,MW10703,3,Traditional Area,-11.44334867,34.00936228
+184649,Malawi,MWI,MW,Northern,MW1,1,Region,Mzuzu City,MW107,7,District,Chiputula Ward,MW10704,4,Traditional Area,-11.43939762,34.01818185
+184650,Malawi,MWI,MW,Northern,MW1,1,Region,Mzuzu City,MW107,7,District,Jombo - Kaning'ina Ward,MW10705,5,Traditional Area,-11.45978129,34.03137827
+184651,Malawi,MWI,MW,Northern,MW1,1,Region,Mzuzu City,MW107,7,District,Katawa Ward,MW10706,6,Traditional Area,-11.44786829,34.03658447
+184652,Malawi,MWI,MW,Northern,MW1,1,Region,Mzuzu City,MW107,7,District,Luwinga Ward,MW10707,7,Traditional Area,-11.41173919,33.99872462
+184653,Malawi,MWI,MW,Northern,MW1,1,Region,Mzuzu City,MW107,7,District,Masasa Ward,MW10708,8,Traditional Area,-11.48283962,34.00084354
+184654,Malawi,MWI,MW,Northern,MW1,1,Region,Mzuzu City,MW107,7,District,Mchengautuwa East Ward,MW10709,9,Traditional Area,-11.45395666,33.99211678
+184655,Malawi,MWI,MW,Northern,MW1,1,Region,Mzuzu City,MW107,7,District,Mchengautuwa West Ward,MW10710,10,Traditional Area,-11.46027915,33.96995475
+184656,Malawi,MWI,MW,Northern,MW1,1,Region,Mzuzu City,MW107,7,District,Msongwe Ward,MW10711,11,Traditional Area,-11.48121445,34.04615123
+184657,Malawi,MWI,MW,Northern,MW1,1,Region,Mzuzu City,MW107,7,District,Mzilawaingwe Ward,MW10712,12,Traditional Area,-11.44879257,34.01995629
+184658,Malawi,MWI,MW,Northern,MW1,1,Region,Mzuzu City,MW107,7,District,Nkhorongo - Lupaso Ward,MW10713,13,Traditional Area,-11.39261096,33.99423193
+184659,Malawi,MWI,MW,Northern,MW1,1,Region,Mzuzu City,MW107,7,District,Zolozolo East Ward,MW10714,14,Traditional Area,-11.41600357,34.03460319
+184660,Malawi,MWI,MW,Northern,MW1,1,Region,Mzuzu City,MW107,7,District,Zolozolo West Ward,MW10715,15,Traditional Area,-11.43020519,34.0173634
+184661,Malawi,MWI,MW,Central,MW2,2,Region,Kasungu,MW201,1,District,TA Kaluluma,MW20101,1,Traditional Area,-12.53042121,33.48766499
+184662,Malawi,MWI,MW,Central,MW2,2,Region,Kasungu,MW201,1,District,TA Chisemphere,MW20102,2,Traditional Area,-12.64020723,33.50840326
+184663,Malawi,MWI,MW,Central,MW2,2,Region,Kasungu,MW201,1,District,TA Simlemba,MW20103,3,Traditional Area,-12.76108472,33.63802198
+184664,Malawi,MWI,MW,Central,MW2,2,Region,Kasungu,MW201,1,District,STA M'nyanja,MW20104,4,Traditional Area,-12.73660624,33.47804521
+184665,Malawi,MWI,MW,Central,MW2,2,Region,Kasungu,MW201,1,District,STA Chisikwa,MW20105,5,Traditional Area,-12.41189641,33.53215681
+184666,Malawi,MWI,MW,Central,MW2,2,Region,Kasungu,MW201,1,District,TA Kaomba,MW20106,6,Traditional Area,-13.00978114,33.5067274
+184667,Malawi,MWI,MW,Central,MW2,2,Region,Kasungu,MW201,1,District,TA Kawamba,MW20107,7,Traditional Area,-13.25491404,33.28179092
+184668,Malawi,MWI,MW,Central,MW2,2,Region,Kasungu,MW201,1,District,STA Nthunduwala,MW20108,8,Traditional Area,-13.32656997,33.06160247
+184669,Malawi,MWI,MW,Central,MW2,2,Region,Kasungu,MW201,1,District,TA Njombwa,MW20109,9,Traditional Area,-13.24057625,33.51174014
+184670,Malawi,MWI,MW,Central,MW2,2,Region,Kasungu,MW201,1,District,TA Chilowamatambe,MW20110,10,Traditional Area,-13.11193974,33.65479807
+184671,Malawi,MWI,MW,Central,MW2,2,Region,Kasungu,MW201,1,District,STA Chambwe,MW20111,11,Traditional Area,-13.18193654,33.64255223
+184672,Malawi,MWI,MW,Central,MW2,2,Region,Kasungu,MW201,1,District,TA Chulu,MW20112,12,Traditional Area,-12.77359537,33.34091246
+184673,Malawi,MWI,MW,Central,MW2,2,Region,Kasungu,MW201,1,District,STA Chisinga,MW20113,13,Traditional Area,-12.60760575,33.33732783
+184674,Malawi,MWI,MW,Central,MW2,2,Region,Kasungu,MW201,1,District,STA Mphomwa,MW20114,14,Traditional Area,-12.83684318,33.4226833
+184675,Malawi,MWI,MW,Central,MW2,2,Region,Kasungu,MW201,1,District,STA Chaima,MW20115,15,Traditional Area,-13.40344296,33.22552782
+184676,Malawi,MWI,MW,Central,MW2,2,Region,Kasungu,MW201,1,District,TA Kaphaizi,MW20116,16,Traditional Area,-12.96550974,33.35960491
+184677,Malawi,MWI,MW,Central,MW2,2,Region,Kasungu,MW201,1,District,STA Mangwazu,MW20117,17,Traditional Area,-13.01930226,33.35778907
+184678,Malawi,MWI,MW,Central,MW2,2,Region,Kasungu,MW201,1,District,STA Mawawa,MW20118,18,Traditional Area,-13.05742023,33.34684845
+184679,Malawi,MWI,MW,Central,MW2,2,Region,Kasungu,MW201,1,District,TA Lukwa,MW20119,19,Traditional Area,-13.12363949,33.35180886
+184680,Malawi,MWI,MW,Central,MW2,2,Region,Kasungu,MW201,1,District,Kasungu Boma,MW20120,20,Traditional Area,-13.0380795,33.47348958
+184681,Malawi,MWI,MW,Central,MW2,2,Region,Kasungu,MW201,1,District,TA Santhe,MW20121,21,Traditional Area,-13.49659858,33.32474095
+184682,Malawi,MWI,MW,Central,MW2,2,Region,Kasungu,MW201,1,District,TA Chidzuma,MW20122,22,Traditional Area,-13.37835408,33.34958579
+184683,Malawi,MWI,MW,Central,MW2,2,Region,Kasungu,MW201,1,District,TA Wimbe,MW20123,23,Traditional Area,-12.93587576,33.69624958
+184684,Malawi,MWI,MW,Central,MW2,2,Region,Kasungu,MW201,1,District,TA Kapelula,MW20124,24,Traditional Area,-12.89928495,33.8704672
+184685,Malawi,MWI,MW,Central,MW2,2,Region,Kasungu,MW201,1,District,STA Kapichira,MW20125,25,Traditional Area,-12.92770589,33.95938664
+184686,Malawi,MWI,MW,Central,MW2,2,Region,Kasungu,MW201,1,District,STA Mdunga,MW20126,26,Traditional Area,-12.99822812,33.87052523
+184687,Malawi,MWI,MW,Central,MW2,2,Region,Kasungu,MW201,1,District,TA Mwase,MW20127,27,Traditional Area,-12.97266528,33.41734466
+184688,Malawi,MWI,MW,Central,MW2,2,Region,Kasungu,MW201,1,District,Kasungu National Park,MW20128,28,Traditional Area,-12.92436988,33.13576523
+184689,Malawi,MWI,MW,Central,MW2,2,Region,Nkhotakota,MW202,2,District,TA Kanyenda,MW20201,1,Traditional Area,-12.52555973,34.10594836
+184690,Malawi,MWI,MW,Central,MW2,2,Region,Nkhotakota,MW202,2,District,TA Kafuzila,MW20202,2,Traditional Area,-12.30348502,33.90359177
+184691,Malawi,MWI,MW,Central,MW2,2,Region,Nkhotakota,MW202,2,District,STA Kalimanjira,MW20203,3,Traditional Area,-13.10130472,34.26572168
+184692,Malawi,MWI,MW,Central,MW2,2,Region,Nkhotakota,MW202,2,District,TA Malenga Chanzi,MW20204,4,Traditional Area,-12.98799271,34.24939592
+184693,Malawi,MWI,MW,Central,MW2,2,Region,Nkhotakota,MW202,2,District,TA Mphonde,MW20205,5,Traditional Area,-12.85129607,34.22048221
+184694,Malawi,MWI,MW,Central,MW2,2,Region,Nkhotakota,MW202,2,District,TA Mwadzama,MW20206,6,Traditional Area,-13.29901491,34.24031578
+184695,Malawi,MWI,MW,Central,MW2,2,Region,Nkhotakota,MW202,2,District,TA Mwansambo,MW20207,7,Traditional Area,-13.29672191,34.14127634
+184696,Malawi,MWI,MW,Central,MW2,2,Region,Nkhotakota,MW202,2,District,Nkhotakota Game Reserve,MW20208,8,Traditional Area,-12.87515251,34.03375368
+184697,Malawi,MWI,MW,Central,MW2,2,Region,Nkhotakota,MW202,2,District,Nkhotakota Boma,MW20220,20,Traditional Area,-12.92623866,34.28731424
+184698,Malawi,MWI,MW,Central,MW2,2,Region,Ntchisi,MW203,3,District,TA Kasakula,MW20301,1,Traditional Area,-13.345157,34.05406885
+184699,Malawi,MWI,MW,Central,MW2,2,Region,Ntchisi,MW203,3,District,TA Chikho,MW20302,2,Traditional Area,-13.46746479,34.06136891
+184700,Malawi,MWI,MW,Central,MW2,2,Region,Ntchisi,MW203,3,District,TA Kalumo,MW20303,3,Traditional Area,-13.41508528,33.86344968
+184701,Malawi,MWI,MW,Central,MW2,2,Region,Ntchisi,MW203,3,District,TA Nthondo,MW20304,4,Traditional Area,-13.23811603,34.01748072
+184702,Malawi,MWI,MW,Central,MW2,2,Region,Ntchisi,MW203,3,District,TA Chilooko,MW20305,5,Traditional Area,-13.17654196,33.85796428
+184703,Malawi,MWI,MW,Central,MW2,2,Region,Ntchisi,MW203,3,District,TA Vuso Jere,MW20306,6,Traditional Area,-13.45135636,33.96853195
+184704,Malawi,MWI,MW,Central,MW2,2,Region,Ntchisi,MW203,3,District,TA Malenga,MW20307,7,Traditional Area,-13.30168763,33.80987646
+184705,Malawi,MWI,MW,Central,MW2,2,Region,Ntchisi,MW203,3,District,Ntchisi Boma,MW20320,20,Traditional Area,-13.34830324,33.91969253
+184706,Malawi,MWI,MW,Central,MW2,2,Region,Dowa,MW204,4,District,TA Dzoole,MW20401,1,Traditional Area,-13.5564993,33.69961701
+184707,Malawi,MWI,MW,Central,MW2,2,Region,Dowa,MW204,4,District,TA Chakhaza,MW20402,2,Traditional Area,-13.3791213,33.60881366
+184708,Malawi,MWI,MW,Central,MW2,2,Region,Dowa,MW204,4,District,TA Kayembe,MW20403,3,Traditional Area,-13.59915053,33.52645166
+184709,Malawi,MWI,MW,Central,MW2,2,Region,Dowa,MW204,4,District,TA Chiwere,MW20404,4,Traditional Area,-13.70908819,34.11492116
+184710,Malawi,MWI,MW,Central,MW2,2,Region,Dowa,MW204,4,District,TA Mkukula,MW20405,5,Traditional Area,-13.73617862,33.91998841
+184711,Malawi,MWI,MW,Central,MW2,2,Region,Dowa,MW204,4,District,TA Msakambewa,MW20406,6,Traditional Area,-13.57054634,33.93490463
+184712,Malawi,MWI,MW,Central,MW2,2,Region,Dowa,MW204,4,District,TA Mponela,MW20407,7,Traditional Area,-13.57076591,33.74925313
+184713,Malawi,MWI,MW,Central,MW2,2,Region,Dowa,MW204,4,District,Dowa Boma,MW20420,20,Traditional Area,-13.65205579,33.93228649
+184714,Malawi,MWI,MW,Central,MW2,2,Region,Dowa,MW204,4,District,Mponela Urban,MW20421,21,Traditional Area,-13.53950923,33.74032567
+184715,Malawi,MWI,MW,Central,MW2,2,Region,Salima,MW205,5,District,TA Maganga,MW20501,1,Traditional Area,-13.7835946,34.55345814
+184716,Malawi,MWI,MW,Central,MW2,2,Region,Salima,MW205,5,District,TA Karonga,MW20502,2,Traditional Area,-13.74229563,34.35954706
+184717,Malawi,MWI,MW,Central,MW2,2,Region,Salima,MW205,5,District,TA Pemba,MW20503,3,Traditional Area,-13.87475021,34.51855181
+184718,Malawi,MWI,MW,Central,MW2,2,Region,Salima,MW205,5,District,TA Kambwiri,MW20504,4,Traditional Area,-13.872035,34.39138141
+184719,Malawi,MWI,MW,Central,MW2,2,Region,Salima,MW205,5,District,TA Ndindi,MW20505,5,Traditional Area,-13.9803022,34.46159518
+184720,Malawi,MWI,MW,Central,MW2,2,Region,Salima,MW205,5,District,TA Kambalame,MW20506,6,Traditional Area,-14.07733466,34.50567942
+184721,Malawi,MWI,MW,Central,MW2,2,Region,Salima,MW205,5,District,TA Khombedza,MW20507,7,Traditional Area,-13.56323226,34.28194585
+184722,Malawi,MWI,MW,Central,MW2,2,Region,Salima,MW205,5,District,TA Mwanza,MW20508,8,Traditional Area,-13.60531897,34.18174431
+184723,Malawi,MWI,MW,Central,MW2,2,Region,Salima,MW205,5,District,TA Kuluunda,MW20509,9,Traditional Area,-13.6580967,34.50751593
+184724,Malawi,MWI,MW,Central,MW2,2,Region,Salima,MW205,5,District,TA Msosa,MW20510,10,Traditional Area,-13.49837826,34.3710279
+184725,Malawi,MWI,MW,Central,MW2,2,Region,Salima,MW205,5,District,Lake Malawi National Park,MW20511,11,Traditional Area,-13.89798008,34.62227651
+184726,Malawi,MWI,MW,Central,MW2,2,Region,Salima,MW205,5,District,Salima Town,MW20520,20,Traditional Area,-13.77475634,34.44485795
+184727,Malawi,MWI,MW,Central,MW2,2,Region,Salima,MW205,5,District,Chipoka Urban,MW20521,21,Traditional Area,-13.99639877,34.50944329
+184728,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe,MW206,6,District,TA Chadza,MW20601,1,Traditional Area,-14.16572143,33.85961976
+184729,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe,MW206,6,District,TA Kalolo,MW20602,2,Traditional Area,-14.01463987,33.41371524
+184730,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe,MW206,6,District,TA Masula,MW20603,3,Traditional Area,-14.35228412,33.60936506
+184731,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe,MW206,6,District,TA Masumbankhunda,MW20604,4,Traditional Area,-14.18352872,33.52207185
+184732,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe,MW206,6,District,TA Chiseka,MW20605,5,Traditional Area,-14.24529301,33.76776841
+184733,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe,MW206,6,District,TA Mazengera,MW20606,6,Traditional Area,-14.03265226,34.01311887
+184734,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe,MW206,6,District,STA Chitekwele,MW20607,7,Traditional Area,-13.91509458,34.14007803
+184735,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe,MW206,6,District,TA Khongoni,MW20608,8,Traditional Area,-13.71393253,33.36798198
+184736,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe,MW206,6,District,TA Chimutu,MW20609,9,Traditional Area,-13.85734432,33.93743711
+184737,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe,MW206,6,District,TA Chitukula,MW20610,10,Traditional Area,-13.75486562,33.72648559
+184738,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe,MW206,6,District,TA Mtema,MW20611,11,Traditional Area,-13.8007215,33.6627087
+184739,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe,MW206,6,District,TA Kalumbu,MW20612,12,Traditional Area,-14.15464767,33.97313877
+184740,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe,MW206,6,District,TA Tsabango,MW20613,13,Traditional Area,-13.99307665,33.87301095
+184741,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe,MW206,6,District,TA Kalumba,MW20614,14,Traditional Area,-14.0817193,33.80568174
+184742,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe,MW206,6,District,TA Njewa,MW20615,15,Traditional Area,-13.94417501,33.65534644
+184743,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe,MW206,6,District,TA Malili,MW20616,16,Traditional Area,-14.03284478,33.61700442
+184744,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe,MW206,6,District,TA Kabudula,MW20617,17,Traditional Area,-13.82003038,33.52337635
+184745,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe,MW206,6,District,STA Mbang'ombe,MW20618,18,Traditional Area,-13.72808723,33.69675793
+184746,Malawi,MWI,MW,Central,MW2,2,Region,Mchinji,MW207,7,District,TA Mlonyeni,MW20701,1,Traditional Area,-13.84398927,32.94163013
+184747,Malawi,MWI,MW,Central,MW2,2,Region,Mchinji,MW207,7,District,TA Mavwere,MW20702,2,Traditional Area,-13.9689804,33.21495179
+184748,Malawi,MWI,MW,Central,MW2,2,Region,Mchinji,MW207,7,District,TA Zulu,MW20703,3,Traditional Area,-13.82482603,33.02662229
+184749,Malawi,MWI,MW,Central,MW2,2,Region,Mchinji,MW207,7,District,TA Simphasi,MW20704,4,Traditional Area,-13.78949558,33.1686433
+184750,Malawi,MWI,MW,Central,MW2,2,Region,Mchinji,MW207,7,District,TA Mduwa,MW20705,5,Traditional Area,-13.68857438,33.16931834
+184751,Malawi,MWI,MW,Central,MW2,2,Region,Mchinji,MW207,7,District,STA Nyoka,MW20706,6,Traditional Area,-13.70549714,32.95376676
+184752,Malawi,MWI,MW,Central,MW2,2,Region,Mchinji,MW207,7,District,TA Mkanda,MW20707,7,Traditional Area,-13.51371685,32.95931631
+184753,Malawi,MWI,MW,Central,MW2,2,Region,Mchinji,MW207,7,District,STA Gumba,MW20708,8,Traditional Area,-13.39607885,33.06817122
+184754,Malawi,MWI,MW,Central,MW2,2,Region,Mchinji,MW207,7,District,STA Pitala,MW20709,9,Traditional Area,-13.52310024,33.02406217
+184755,Malawi,MWI,MW,Central,MW2,2,Region,Mchinji,MW207,7,District,STA Kapunula,MW20710,10,Traditional Area,-13.60430347,32.75739497
+184756,Malawi,MWI,MW,Central,MW2,2,Region,Mchinji,MW207,7,District,TA Kazyozyo,MW20711,11,Traditional Area,-13.59404839,32.85940489
+184757,Malawi,MWI,MW,Central,MW2,2,Region,Mchinji,MW207,7,District,TA Dambe,MW20712,12,Traditional Area,-13.55504479,33.14751181
+184758,Malawi,MWI,MW,Central,MW2,2,Region,Mchinji,MW207,7,District,TA Kapondo,MW20713,13,Traditional Area,-13.62771763,33.06485089
+184759,Malawi,MWI,MW,Central,MW2,2,Region,Mchinji,MW207,7,District,Mchinji Boma,MW20720,20,Traditional Area,-13.79959557,32.88872329
+184760,Malawi,MWI,MW,Central,MW2,2,Region,Dedza,MW208,8,District,TA Kachere,MW20801,1,Traditional Area,-14.4311681,33.94280319
+184761,Malawi,MWI,MW,Central,MW2,2,Region,Dedza,MW208,8,District,TA Chilikumwendo,MW20802,2,Traditional Area,-14.32652909,33.92722342
+184762,Malawi,MWI,MW,Central,MW2,2,Region,Dedza,MW208,8,District,TA Kaphuka,MW20803,3,Traditional Area,-14.25012587,34.15306625
+184763,Malawi,MWI,MW,Central,MW2,2,Region,Dedza,MW208,8,District,TA Tambala,MW20804,4,Traditional Area,-14.02959786,34.26432972
+184764,Malawi,MWI,MW,Central,MW2,2,Region,Dedza,MW208,8,District,TA Chauma,MW20805,5,Traditional Area,-14.08711959,34.16361975
+184765,Malawi,MWI,MW,Central,MW2,2,Region,Dedza,MW208,8,District,TA Kasumbu,MW20806,6,Traditional Area,-14.19047094,34.36325918
+184766,Malawi,MWI,MW,Central,MW2,2,Region,Dedza,MW208,8,District,TA Kachindamoto,MW20807,7,Traditional Area,-14.27943347,34.5681824
+184767,Malawi,MWI,MW,Central,MW2,2,Region,Dedza,MW208,8,District,TA Kamenya Gwaza,MW20808,8,Traditional Area,-14.33911213,34.43581942
+184768,Malawi,MWI,MW,Central,MW2,2,Region,Dedza,MW208,8,District,Dedza Boma,MW20820,20,Traditional Area,-14.38369481,34.3236142
+184769,Malawi,MWI,MW,Central,MW2,2,Region,Ntcheu,MW209,9,District,TA Phambala,MW20901,1,Traditional Area,-15.07484602,34.7343739
+184770,Malawi,MWI,MW,Central,MW2,2,Region,Ntcheu,MW209,9,District,STA Tsikulamowa,MW20902,2,Traditional Area,-15.1308888,34.82316537
+184771,Malawi,MWI,MW,Central,MW2,2,Region,Ntcheu,MW209,9,District,TA Mpando,MW20903,3,Traditional Area,-15.03928454,34.63043409
+184772,Malawi,MWI,MW,Central,MW2,2,Region,Ntcheu,MW209,9,District,TA Kwataine,MW20904,4,Traditional Area,-14.82003127,34.68699524
+184773,Malawi,MWI,MW,Central,MW2,2,Region,Ntcheu,MW209,9,District,TA Makwangwala,MW20905,5,Traditional Area,-14.84395607,34.83428135
+184774,Malawi,MWI,MW,Central,MW2,2,Region,Ntcheu,MW209,9,District,STA Mkutumula,MW20906,6,Traditional Area,-14.82402189,34.91821737
+184775,Malawi,MWI,MW,Central,MW2,2,Region,Ntcheu,MW209,9,District,TA Champiti,MW20907,7,Traditional Area,-14.90676564,34.735215
+184776,Malawi,MWI,MW,Central,MW2,2,Region,Ntcheu,MW209,9,District,TA Njolomole,MW20908,8,Traditional Area,-14.68934994,34.59200247
+184777,Malawi,MWI,MW,Central,MW2,2,Region,Ntcheu,MW209,9,District,TA Chakhumbira,MW20909,9,Traditional Area,-14.50966617,34.52166947
+184778,Malawi,MWI,MW,Central,MW2,2,Region,Ntcheu,MW209,9,District,TA Goodson Ganya,MW20910,10,Traditional Area,-14.60388756,34.71583833
+184779,Malawi,MWI,MW,Central,MW2,2,Region,Ntcheu,MW209,9,District,TA Masasa,MW20911,11,Traditional Area,-14.42045579,34.63146163
+184780,Malawi,MWI,MW,Central,MW2,2,Region,Ntcheu,MW209,9,District,Ntcheu Boma,MW20920,20,Traditional Area,-14.81577347,34.63398126
+184781,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 1,MW21031,31,Traditional Area,-14.00296759,33.78105171
+184782,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 2,MW21032,32,Traditional Area,-13.98742287,33.77869978
+184783,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 3,MW21033,33,Traditional Area,-13.99548477,33.7591954
+184784,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 4,MW21034,34,Traditional Area,-13.98068666,33.77208748
+184785,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 5,MW21035,35,Traditional Area,-13.97649167,33.7656829
+184786,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 6,MW21036,36,Traditional Area,-13.96895274,33.76645361
+184787,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 7,MW21037,37,Traditional Area,-13.98605846,33.79787895
+184788,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 8,MW21038,38,Traditional Area,-13.99783065,33.78860409
+184789,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 9,MW21039,39,Traditional Area,-13.98058707,33.74966883
+184790,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 10,MW21040,40,Traditional Area,-13.94134725,33.8025978
+184791,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 11,MW21041,41,Traditional Area,-13.95443812,33.79823437
+184792,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 12,MW21042,42,Traditional Area,-13.95431669,33.81113842
+184793,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 13,MW21043,43,Traditional Area,-13.96424267,33.79591925
+184794,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 14,MW21044,44,Traditional Area,-13.95104057,33.78101744
+184795,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 15,MW21045,45,Traditional Area,-13.96173804,33.76886492
+184796,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 16,MW21046,46,Traditional Area,-13.96474784,33.79030905
+184797,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 17,MW21047,47,Traditional Area,-13.97505805,33.80699493
+184798,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 18,MW21048,48,Traditional Area,-13.94024432,33.77355777
+184799,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 19,MW21049,49,Traditional Area,-13.95931825,33.79134357
+184800,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 20,MW21050,50,Traditional Area,-13.94442169,33.78949667
+184801,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 21,MW21051,51,Traditional Area,-13.99512853,33.81104488
+184802,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 22,MW21052,52,Traditional Area,-14.00952728,33.79820315
+184803,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 23,MW21053,53,Traditional Area,-14.01408608,33.819671
+184804,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 24,MW21054,54,Traditional Area,-14.02584443,33.8060457
+184805,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 25,MW21055,55,Traditional Area,-13.87613637,33.7591884
+184806,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 26,MW21056,56,Traditional Area,-13.86517436,33.7897598
+184807,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 27,MW21057,57,Traditional Area,-13.87995082,33.81068958
+184808,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 28,MW21058,58,Traditional Area,-13.9104432,33.78340936
+184809,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 29,MW21059,59,Traditional Area,-13.8955222,33.79842535
+184810,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 30,MW21060,60,Traditional Area,-13.92606308,33.78023277
+184811,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 31,MW21061,61,Traditional Area,-13.9529423,33.79076349
+184812,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 32,MW21062,62,Traditional Area,-13.9640668,33.77930204
+184813,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 33,MW21063,63,Traditional Area,-13.97620785,33.78752078
+184814,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 34,MW21064,64,Traditional Area,-13.9660119,33.80591992
+184815,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 35,MW21065,65,Traditional Area,-13.98158819,33.82493504
+184816,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 36,MW21066,66,Traditional Area,-14.02742232,33.78588075
+184817,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 37,MW21067,67,Traditional Area,-14.00403876,33.77251932
+184818,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 38,MW21068,68,Traditional Area,-14.04589685,33.81304785
+184819,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 39,MW21069,69,Traditional Area,-13.89874915,33.81231009
+184820,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 40,MW21070,70,Traditional Area,-13.96095346,33.78740231
+184821,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 41,MW21071,71,Traditional Area,-13.95805973,33.82279814
+184822,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 42,MW21072,72,Traditional Area,-13.94953488,33.7988286
+184823,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 43,MW21073,73,Traditional Area,-13.92072768,33.80497863
+184824,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 44,MW21074,74,Traditional Area,-13.95155913,33.84375656
+184825,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 45,MW21075,75,Traditional Area,-14.0236356,33.74500266
+184826,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 46,MW21076,76,Traditional Area,-13.99011719,33.73045454
+184827,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 47,MW21077,77,Traditional Area,-13.96114408,33.74805921
+184828,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 48,MW21078,78,Traditional Area,-13.94553494,33.75325289
+184829,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 49,MW21079,79,Traditional Area,-13.9250618,33.74901201
+184830,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 50,MW21080,80,Traditional Area,-13.90878483,33.76182906
+184831,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 51,MW21081,81,Traditional Area,-13.8985106,33.781161
+184832,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 52,MW21082,82,Traditional Area,-13.7854441,33.78241939
+184833,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 53,MW21083,83,Traditional Area,-13.77655889,33.8165921
+184834,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 54,MW21084,84,Traditional Area,-13.83614626,33.81594314
+184835,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 55,MW21085,85,Traditional Area,-13.82721395,33.75803603
+184836,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 56,MW21086,86,Traditional Area,-13.9535002,33.72648919
+184837,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 57,MW21087,87,Traditional Area,-14.00937625,33.71954926
+184838,Malawi,MWI,MW,Central,MW2,2,Region,Lilongwe City,MW210,10,District,Area 58,MW21088,88,Traditional Area,-14.0342011,33.68913812
+184839,Malawi,MWI,MW,Southern,MW3,3,Region,Mangochi,MW301,1,District,TA Mponda,MW30101,1,Traditional Area,-14.44867044,35.10367092
+184840,Malawi,MWI,MW,Southern,MW3,3,Region,Mangochi,MW301,1,District,TA Chimwala,MW30102,2,Traditional Area,-14.65177092,35.12041065
+184841,Malawi,MWI,MW,Southern,MW3,3,Region,Mangochi,MW301,1,District,TA Chilipa,MW30103,3,Traditional Area,-14.69958006,34.97972223
+184842,Malawi,MWI,MW,Southern,MW3,3,Region,Mangochi,MW301,1,District,TA Nankumba,MW30104,4,Traditional Area,-14.31903822,34.89896533
+184843,Malawi,MWI,MW,Southern,MW3,3,Region,Mangochi,MW301,1,District,TA Jalasi,MW30105,5,Traditional Area,-14.3808643,35.50244403
+184844,Malawi,MWI,MW,Southern,MW3,3,Region,Mangochi,MW301,1,District,TA Mbwana Nyambi,MW30106,6,Traditional Area,-14.54960381,35.55283145
+184845,Malawi,MWI,MW,Southern,MW3,3,Region,Mangochi,MW301,1,District,TA Chowe,MW30107,7,Traditional Area,-14.50656913,35.33929651
+184846,Malawi,MWI,MW,Southern,MW3,3,Region,Mangochi,MW301,1,District,TA Katuli,MW30108,8,Traditional Area,-14.17691789,35.41543586
+184847,Malawi,MWI,MW,Southern,MW3,3,Region,Mangochi,MW301,1,District,TA Makanjila,MW30109,9,Traditional Area,-13.81163655,35.12008765
+184848,Malawi,MWI,MW,Southern,MW3,3,Region,Mangochi,MW301,1,District,STA Lulanga,MW30110,10,Traditional Area,-13.63519126,34.91350854
+184849,Malawi,MWI,MW,Southern,MW3,3,Region,Mangochi,MW301,1,District,TA Namabvi,MW30111,11,Traditional Area,-14.11339391,35.21914034
+184850,Malawi,MWI,MW,Southern,MW3,3,Region,Mangochi,MW301,1,District,Lake Malawi National Park,MW30112,12,Traditional Area,-14.06667648,34.8858477
+184851,Malawi,MWI,MW,Southern,MW3,3,Region,Mangochi,MW301,1,District,STA Ntonda,MW30113,13,Traditional Area,-14.59353183,34.88472566
+184852,Malawi,MWI,MW,Southern,MW3,3,Region,Mangochi,MW301,1,District,STA Chiunda,MW30114,14,Traditional Area,-14.72948492,35.43111544
+184853,Malawi,MWI,MW,Southern,MW3,3,Region,Mangochi,MW301,1,District,Mangochi Town,MW30120,20,Traditional Area,-14.48143364,35.26170905
+184854,Malawi,MWI,MW,Southern,MW3,3,Region,Mangochi,MW301,1,District,Monkey Bay Urban,MW30121,21,Traditional Area,-14.08886526,34.91543791
+184855,Malawi,MWI,MW,Southern,MW3,3,Region,Mangochi,MW301,1,District,Lake Malombe,MW30199,99,Traditional Area,-14.53634216,35.27022985
+184856,Malawi,MWI,MW,Southern,MW3,3,Region,Machinga,MW302,2,District,TA Liwonde,MW30201,1,Traditional Area,-14.8716805,35.4564052
+184857,Malawi,MWI,MW,Southern,MW3,3,Region,Machinga,MW302,2,District,STA Nsanama,MW30202,2,Traditional Area,-15.03016789,35.41108338
+184858,Malawi,MWI,MW,Southern,MW3,3,Region,Machinga,MW302,2,District,TA Sitola,MW30203,3,Traditional Area,-15.12958067,35.27043007
+184859,Malawi,MWI,MW,Southern,MW3,3,Region,Machinga,MW302,2,District,TA Nkula,MW30204,4,Traditional Area,-15.20259246,35.27206038
+184860,Malawi,MWI,MW,Southern,MW3,3,Region,Machinga,MW302,2,District,STA Nchinguza,MW30205,5,Traditional Area,-14.95412343,35.76327124
+184861,Malawi,MWI,MW,Southern,MW3,3,Region,Machinga,MW302,2,District,TA Kawinga,MW30206,6,Traditional Area,-14.90834244,35.58713693
+184862,Malawi,MWI,MW,Southern,MW3,3,Region,Machinga,MW302,2,District,TA Nkoola,MW30207,7,Traditional Area,-14.81814102,35.63263413
+184863,Malawi,MWI,MW,Southern,MW3,3,Region,Machinga,MW302,2,District,TA Chamba,MW30208,8,Traditional Area,-15.16343442,35.41446041
+184864,Malawi,MWI,MW,Southern,MW3,3,Region,Machinga,MW302,2,District,TA Mposa,MW30209,9,Traditional Area,-15.16424504,35.49625873
+184865,Malawi,MWI,MW,Southern,MW3,3,Region,Machinga,MW302,2,District,TA Mlomba,MW30210,10,Traditional Area,-15.04542025,35.49340864
+184866,Malawi,MWI,MW,Southern,MW3,3,Region,Machinga,MW302,2,District,TA Chikweo,MW30211,11,Traditional Area,-14.8103541,35.73007458
+184867,Malawi,MWI,MW,Southern,MW3,3,Region,Machinga,MW302,2,District,TA Ngokwe,MW30212,12,Traditional Area,-14.7032846,35.81328132
+184868,Malawi,MWI,MW,Southern,MW3,3,Region,Machinga,MW302,2,District,TA Chiwalo,MW30213,13,Traditional Area,-14.7650664,35.52482341
+184869,Malawi,MWI,MW,Southern,MW3,3,Region,Machinga,MW302,2,District,TA Kapoloma,MW30214,14,Traditional Area,-14.74206592,35.57280256
+184870,Malawi,MWI,MW,Southern,MW3,3,Region,Machinga,MW302,2,District,TA Nyambi,MW30215,15,Traditional Area,-14.6653893,35.6424182
+184871,Malawi,MWI,MW,Southern,MW3,3,Region,Machinga,MW302,2,District,STA Chesale,MW30216,16,Traditional Area,-14.62826143,35.75354279
+184872,Malawi,MWI,MW,Southern,MW3,3,Region,Machinga,MW302,2,District,Liwonde National Park,MW30217,17,Traditional Area,-14.90010625,35.33465177
+184873,Malawi,MWI,MW,Southern,MW3,3,Region,Machinga,MW302,2,District,Machinga Boma,MW30220,20,Traditional Area,-15.17578727,35.29749383
+184874,Malawi,MWI,MW,Southern,MW3,3,Region,Machinga,MW302,2,District,Liwonde Town,MW30221,21,Traditional Area,-15.0630146,35.23958198
+184875,Malawi,MWI,MW,Southern,MW3,3,Region,Zomba,MW303,3,District,TA Kuntumanji,MW30301,1,Traditional Area,-15.27724896,35.4787545
+184876,Malawi,MWI,MW,Southern,MW3,3,Region,Zomba,MW303,3,District,TA Mwambo,MW30302,2,Traditional Area,-15.46416829,35.50845114
+184877,Malawi,MWI,MW,Southern,MW3,3,Region,Zomba,MW303,3,District,TA Mkumbira,MW30303,3,Traditional Area,-15.33098205,35.69976106
+184878,Malawi,MWI,MW,Southern,MW3,3,Region,Zomba,MW303,3,District,TA Chikowi,MW30304,4,Traditional Area,-15.48724751,35.34916278
+184879,Malawi,MWI,MW,Southern,MW3,3,Region,Zomba,MW303,3,District,TA Mbiza,MW30305,5,Traditional Area,-15.59893255,35.35094326
+184880,Malawi,MWI,MW,Southern,MW3,3,Region,Zomba,MW303,3,District,TA Malemia,MW30306,6,Traditional Area,-15.29091929,35.34486025
+184881,Malawi,MWI,MW,Southern,MW3,3,Region,Zomba,MW303,3,District,TA Mlumbe,MW30307,7,Traditional Area,-15.41290329,35.15799597
+184882,Malawi,MWI,MW,Southern,MW3,3,Region,Zomba,MW303,3,District,STA Nkagula,MW30308,8,Traditional Area,-15.36462799,35.46913742
+184883,Malawi,MWI,MW,Southern,MW3,3,Region,Zomba,MW303,3,District,STA Ntholowa,MW30309,9,Traditional Area,-15.55934802,35.25480812
+184884,Malawi,MWI,MW,Southern,MW3,3,Region,Zomba,MW303,3,District,STA Ngwelero,MW30310,10,Traditional Area,-15.61207459,35.45646515
+184885,Malawi,MWI,MW,Southern,MW3,3,Region,Zomba,MW303,3,District,STA Nkapita,MW30311,11,Traditional Area,-15.28323088,35.19284474
+184886,Malawi,MWI,MW,Southern,MW3,3,Region,Chiradzulu,MW304,4,District,TA Mpama,MW30401,1,Traditional Area,-15.66053409,35.1557983
+184887,Malawi,MWI,MW,Southern,MW3,3,Region,Chiradzulu,MW304,4,District,TA Likoswe,MW30402,2,Traditional Area,-15.80856053,35.15855686
+184888,Malawi,MWI,MW,Southern,MW3,3,Region,Chiradzulu,MW304,4,District,TA Kadewere,MW30403,3,Traditional Area,-15.71775031,35.24038462
+184889,Malawi,MWI,MW,Southern,MW3,3,Region,Chiradzulu,MW304,4,District,TA Nkalo,MW30404,4,Traditional Area,-15.90654258,35.27439978
+184890,Malawi,MWI,MW,Southern,MW3,3,Region,Chiradzulu,MW304,4,District,TA Chitera,MW30405,5,Traditional Area,-15.59012738,35.13449487
+184891,Malawi,MWI,MW,Southern,MW3,3,Region,Chiradzulu,MW304,4,District,TA Nchema,MW30406,6,Traditional Area,-15.60610833,35.21326299
+184892,Malawi,MWI,MW,Southern,MW3,3,Region,Chiradzulu,MW304,4,District,STA Mpunga,MW30407,7,Traditional Area,-15.81370499,35.26646121
+184893,Malawi,MWI,MW,Southern,MW3,3,Region,Chiradzulu,MW304,4,District,STA Sandareki,MW30408,8,Traditional Area,-15.67718566,35.27429278
+184894,Malawi,MWI,MW,Southern,MW3,3,Region,Chiradzulu,MW304,4,District,STA Onga,MW30409,9,Traditional Area,-15.74021837,35.19166334
+184895,Malawi,MWI,MW,Southern,MW3,3,Region,Chiradzulu,MW304,4,District,Chiradzulu Boma,MW30420,20,Traditional Area,-15.69673203,35.18791437
+184896,Malawi,MWI,MW,Southern,MW3,3,Region,Blantyre,MW305,5,District,TA Kapeni,MW30501,1,Traditional Area,-15.64316103,35.01056349
+184897,Malawi,MWI,MW,Southern,MW3,3,Region,Blantyre,MW305,5,District,TA Lundu,MW30502,2,Traditional Area,-15.47907954,35.05616895
+184898,Malawi,MWI,MW,Southern,MW3,3,Region,Blantyre,MW305,5,District,TA Chigaru,MW30503,3,Traditional Area,-15.44713448,34.94820745
+184899,Malawi,MWI,MW,Southern,MW3,3,Region,Blantyre,MW305,5,District,TA Kunthembwe,MW30504,4,Traditional Area,-15.68509374,34.81727875
+184900,Malawi,MWI,MW,Southern,MW3,3,Region,Blantyre,MW305,5,District,TA Makata,MW30505,5,Traditional Area,-15.58796923,35.09177117
+184901,Malawi,MWI,MW,Southern,MW3,3,Region,Blantyre,MW305,5,District,TA Kuntaja,MW30506,6,Traditional Area,-15.6696648,34.92233519
+184902,Malawi,MWI,MW,Southern,MW3,3,Region,Blantyre,MW305,5,District,TA Machinjiri,MW30507,7,Traditional Area,-15.70249473,35.07369032
+184903,Malawi,MWI,MW,Southern,MW3,3,Region,Blantyre,MW305,5,District,TA Somba,MW30508,8,Traditional Area,-15.9019421,34.93145206
+184904,Malawi,MWI,MW,Southern,MW3,3,Region,Mwanza,MW306,6,District,TA Kanduku,MW30601,1,Traditional Area,-15.65825359,34.55049331
+184905,Malawi,MWI,MW,Southern,MW3,3,Region,Mwanza,MW306,6,District,TA Nthache,MW30602,2,Traditional Area,-15.62511019,34.47077211
+184906,Malawi,MWI,MW,Southern,MW3,3,Region,Mwanza,MW306,6,District,STA Govati,MW30603,3,Traditional Area,-15.72930835,34.42266306
+184907,Malawi,MWI,MW,Southern,MW3,3,Region,Mwanza,MW306,6,District,Majete Game Reserve - Mwanza,MW30604,4,Traditional Area,-15.8007661,34.6546107
+184908,Malawi,MWI,MW,Southern,MW3,3,Region,Mwanza,MW306,6,District,Mwanza Boma,MW30620,20,Traditional Area,-15.59420186,34.51705308
+184909,Malawi,MWI,MW,Southern,MW3,3,Region,Thyolo,MW307,7,District,TA Nsabwe,MW30701,1,Traditional Area,-16.31112727,35.2182445
+184910,Malawi,MWI,MW,Southern,MW3,3,Region,Thyolo,MW307,7,District,STA Thukuta,MW30702,2,Traditional Area,-16.36170932,35.25138836
+184911,Malawi,MWI,MW,Southern,MW3,3,Region,Thyolo,MW307,7,District,STA Mbawela,MW30703,3,Traditional Area,-16.24016758,35.22217136
+184912,Malawi,MWI,MW,Southern,MW3,3,Region,Thyolo,MW307,7,District,TA Changata,MW30704,4,Traditional Area,-16.23105412,35.14635594
+184913,Malawi,MWI,MW,Southern,MW3,3,Region,Thyolo,MW307,7,District,TA Mphuka,MW30705,5,Traditional Area,-16.0973616,35.01807386
+184914,Malawi,MWI,MW,Southern,MW3,3,Region,Thyolo,MW307,7,District,TA Kwethemule,MW30706,6,Traditional Area,-16.17710197,35.08728195
+184915,Malawi,MWI,MW,Southern,MW3,3,Region,Thyolo,MW307,7,District,TA Kapichi,MW30707,7,Traditional Area,-16.11580447,35.27180827
+184916,Malawi,MWI,MW,Southern,MW3,3,Region,Thyolo,MW307,7,District,TA Nchilamwela,MW30708,8,Traditional Area,-16.08494752,35.17026298
+184917,Malawi,MWI,MW,Southern,MW3,3,Region,Thyolo,MW307,7,District,TA Chimaliro,MW30709,9,Traditional Area,-15.93525988,35.19575698
+184918,Malawi,MWI,MW,Southern,MW3,3,Region,Thyolo,MW307,7,District,TA Bvumbwe,MW30710,10,Traditional Area,-15.94721237,35.07830594
+184919,Malawi,MWI,MW,Southern,MW3,3,Region,Thyolo,MW307,7,District,TA Thomas,MW30711,11,Traditional Area,-16.01693001,34.96755322
+184920,Malawi,MWI,MW,Southern,MW3,3,Region,Thyolo,MW307,7,District,TA Nanseta,MW30712,12,Traditional Area,-16.0195202,35.26644167
+184921,Malawi,MWI,MW,Southern,MW3,3,Region,Thyolo,MW307,7,District,TA Ngolongoliwa,MW30713,13,Traditional Area,-15.99510135,35.19544545
+184922,Malawi,MWI,MW,Southern,MW3,3,Region,Thyolo,MW307,7,District,STA Boyidi,MW30714,14,Traditional Area,-15.97155542,35.1165293
+184923,Malawi,MWI,MW,Southern,MW3,3,Region,Thyolo,MW307,7,District,Thyolo Boma,MW30720,20,Traditional Area,-16.06992973,35.14424126
+184924,Malawi,MWI,MW,Southern,MW3,3,Region,Thyolo,MW307,7,District,Luchenza Town,MW30721,21,Traditional Area,-16.00685666,35.30618954
+184925,Malawi,MWI,MW,Southern,MW3,3,Region,Mulanje,MW308,8,District,TA Mabuka,MW30801,1,Traditional Area,-16.07860404,35.49626139
+184926,Malawi,MWI,MW,Southern,MW3,3,Region,Mulanje,MW308,8,District,TA Laston Njema,MW30802,2,Traditional Area,-16.02599217,35.73461368
+184927,Malawi,MWI,MW,Southern,MW3,3,Region,Mulanje,MW308,8,District,TA Chikumbu,MW30803,3,Traditional Area,-16.03500563,35.41308385
+184928,Malawi,MWI,MW,Southern,MW3,3,Region,Mulanje,MW308,8,District,TA Nthiramanja,MW30804,4,Traditional Area,-15.99356874,35.35029948
+184929,Malawi,MWI,MW,Southern,MW3,3,Region,Mulanje,MW308,8,District,TA Nkanda,MW30805,5,Traditional Area,-15.84755137,35.4592462
+184930,Malawi,MWI,MW,Southern,MW3,3,Region,Mulanje,MW308,8,District,TA Juma,MW30806,6,Traditional Area,-15.75551705,35.38883069
+184931,Malawi,MWI,MW,Southern,MW3,3,Region,Mulanje,MW308,8,District,STA Sunganinzeru,MW30807,7,Traditional Area,-16.05747945,35.61929913
+184932,Malawi,MWI,MW,Southern,MW3,3,Region,Mulanje,MW308,8,District,STA Tombondiya,MW30808,8,Traditional Area,-16.15695909,35.33688563
+184933,Malawi,MWI,MW,Southern,MW3,3,Region,Mulanje,MW308,8,District,Mulanje Mountain Reserve,MW30809,9,Traditional Area,-15.93549832,35.64197729
+184934,Malawi,MWI,MW,Southern,MW3,3,Region,Mulanje,MW308,8,District,Mulanje Boma,MW30820,20,Traditional Area,-16.01389433,35.49748069
+184935,Malawi,MWI,MW,Southern,MW3,3,Region,Phalombe,MW309,9,District,TA Mkhumba,MW30901,1,Traditional Area,-15.76324507,35.59670613
+184936,Malawi,MWI,MW,Southern,MW3,3,Region,Phalombe,MW309,9,District,TA Nazombe,MW30902,2,Traditional Area,-15.75102374,35.77955651
+184937,Malawi,MWI,MW,Southern,MW3,3,Region,Phalombe,MW309,9,District,TA Chiwalo,MW30903,3,Traditional Area,-15.57700223,35.78740768
+184938,Malawi,MWI,MW,Southern,MW3,3,Region,Phalombe,MW309,9,District,TA Nkhulambe,MW30904,4,Traditional Area,-15.87341691,35.78385931
+184939,Malawi,MWI,MW,Southern,MW3,3,Region,Phalombe,MW309,9,District,TA Jenala,MW30905,5,Traditional Area,-15.58958226,35.61225879
+184940,Malawi,MWI,MW,Southern,MW3,3,Region,Phalombe,MW309,9,District,TA Kaduya,MW30906,6,Traditional Area,-15.7064385,35.69833443
+184941,Malawi,MWI,MW,Southern,MW3,3,Region,Phalombe,MW309,9,District,Phalombe Boma,MW30920,20,Traditional Area,-15.80023935,35.65296646
+184942,Malawi,MWI,MW,Southern,MW3,3,Region,Chikwawa,MW310,10,District,TA Ngabu,MW31001,1,Traditional Area,-16.42820344,34.83343385
+184943,Malawi,MWI,MW,Southern,MW3,3,Region,Chikwawa,MW310,10,District,TA Lundu,MW31002,2,Traditional Area,-16.21463359,34.86036957
+184944,Malawi,MWI,MW,Southern,MW3,3,Region,Chikwawa,MW310,10,District,TA Chapananga,MW31003,3,Traditional Area,-15.909221,34.42340462
+184945,Malawi,MWI,MW,Southern,MW3,3,Region,Chikwawa,MW310,10,District,TA Maseya,MW31004,4,Traditional Area,-16.10871992,34.85527683
+184946,Malawi,MWI,MW,Southern,MW3,3,Region,Chikwawa,MW310,10,District,TA Katunga,MW31005,5,Traditional Area,-16.09822738,34.76232928
+184947,Malawi,MWI,MW,Southern,MW3,3,Region,Chikwawa,MW310,10,District,TA Kasisi,MW31006,6,Traditional Area,-15.93323906,34.78040299
+184948,Malawi,MWI,MW,Southern,MW3,3,Region,Chikwawa,MW310,10,District,TA Makhwira,MW31007,7,Traditional Area,-16.28464645,35.00158137
+184949,Malawi,MWI,MW,Southern,MW3,3,Region,Chikwawa,MW310,10,District,STA Ndakwela,MW31008,8,Traditional Area,-16.18830156,34.68139781
+184950,Malawi,MWI,MW,Southern,MW3,3,Region,Chikwawa,MW310,10,District,TA Mlilima,MW31009,9,Traditional Area,-15.99906025,34.84934771
+184951,Malawi,MWI,MW,Southern,MW3,3,Region,Chikwawa,MW310,10,District,STA Masache,MW31010,10,Traditional Area,-16.60272931,34.92334386
+184952,Malawi,MWI,MW,Southern,MW3,3,Region,Chikwawa,MW310,10,District,TA Ngowe,MW31011,11,Traditional Area,-16.49356743,35.00631209
+184953,Malawi,MWI,MW,Southern,MW3,3,Region,Chikwawa,MW310,10,District,Lengwe National Park,MW31012,12,Traditional Area,-16.22260465,34.57235079
+184954,Malawi,MWI,MW,Southern,MW3,3,Region,Chikwawa,MW310,10,District,Majete Game Reserve - Chikwawa,MW31013,13,Traditional Area,-15.93325861,34.61268888
+184955,Malawi,MWI,MW,Southern,MW3,3,Region,Chikwawa,MW310,10,District,Chikwawa Boma,MW31020,20,Traditional Area,-16.02183563,34.79122896
+184956,Malawi,MWI,MW,Southern,MW3,3,Region,Chikwawa,MW310,10,District,Ngabu Urban,MW31021,21,Traditional Area,-16.46332762,34.87690498
+184957,Malawi,MWI,MW,Southern,MW3,3,Region,Nsanje,MW311,11,District,TA Ndamera,MW31101,1,Traditional Area,-17.0814482,35.16462721
+184958,Malawi,MWI,MW,Southern,MW3,3,Region,Nsanje,MW311,11,District,TA Chimombo,MW31102,2,Traditional Area,-17.02884431,35.2089194
+184959,Malawi,MWI,MW,Southern,MW3,3,Region,Nsanje,MW311,11,District,TA Nyachikadza,MW31103,3,Traditional Area,-17.05077481,35.27763163
+184960,Malawi,MWI,MW,Southern,MW3,3,Region,Nsanje,MW311,11,District,TA Mlolo,MW31104,4,Traditional Area,-16.4369899,35.15952718
+184961,Malawi,MWI,MW,Southern,MW3,3,Region,Nsanje,MW311,11,District,TA Tengani,MW31105,5,Traditional Area,-16.76637291,35.2078474
+184962,Malawi,MWI,MW,Southern,MW3,3,Region,Nsanje,MW311,11,District,TA Malemia,MW31106,6,Traditional Area,-16.90272736,35.21720072
+184963,Malawi,MWI,MW,Southern,MW3,3,Region,Nsanje,MW311,11,District,TA Mbenje,MW31107,7,Traditional Area,-16.60758418,35.08940024
+184964,Malawi,MWI,MW,Southern,MW3,3,Region,Nsanje,MW311,11,District,TA Ngabu,MW31108,8,Traditional Area,-16.9781437,35.20391439
+184965,Malawi,MWI,MW,Southern,MW3,3,Region,Nsanje,MW311,11,District,TA Makoko,MW31109,9,Traditional Area,-17.00592551,35.12652932
+184966,Malawi,MWI,MW,Southern,MW3,3,Region,Nsanje,MW311,11,District,Mwabvi Game Reserve,MW31110,10,Traditional Area,-16.71523374,35.01759818
+184967,Malawi,MWI,MW,Southern,MW3,3,Region,Nsanje,MW311,11,District,Nsanje Boma,MW31120,20,Traditional Area,-16.92249457,35.25503846
+184968,Malawi,MWI,MW,Southern,MW3,3,Region,Balaka,MW312,12,District,TA Msamala,MW31201,1,Traditional Area,-15.06123476,35.06895406
+184969,Malawi,MWI,MW,Southern,MW3,3,Region,Balaka,MW312,12,District,TA Kalembo,MW31202,2,Traditional Area,-14.83759864,35.18181528
+184970,Malawi,MWI,MW,Southern,MW3,3,Region,Balaka,MW312,12,District,STA Kachenga,MW31203,3,Traditional Area,-14.85416987,35.04568896
+184971,Malawi,MWI,MW,Southern,MW3,3,Region,Balaka,MW312,12,District,TA Amidu,MW31204,4,Traditional Area,-14.96185832,35.20130191
+184972,Malawi,MWI,MW,Southern,MW3,3,Region,Balaka,MW312,12,District,TA Nkaya,MW31205,5,Traditional Area,-15.20574343,35.05791363
+184973,Malawi,MWI,MW,Southern,MW3,3,Region,Balaka,MW312,12,District,STA Phalula,MW31206,6,Traditional Area,-15.26642676,34.90643098
+184974,Malawi,MWI,MW,Southern,MW3,3,Region,Balaka,MW312,12,District,TA Chanthunya,MW31207,7,Traditional Area,-15.1347405,34.93486929
+184975,Malawi,MWI,MW,Southern,MW3,3,Region,Balaka,MW312,12,District,TA Sawali,MW31208,8,Traditional Area,-14.9692682,35.06147573
+184976,Malawi,MWI,MW,Southern,MW3,3,Region,Balaka,MW312,12,District,STA Matola,MW31209,9,Traditional Area,-14.92142651,34.95524063
+184977,Malawi,MWI,MW,Southern,MW3,3,Region,Balaka,MW312,12,District,STA Toleza,MW31210,10,Traditional Area,-14.90095351,34.99514899
+184978,Malawi,MWI,MW,Southern,MW3,3,Region,Balaka,MW312,12,District,Balaka Town,MW31220,20,Traditional Area,-14.98752322,34.95898869
+184979,Malawi,MWI,MW,Southern,MW3,3,Region,Balaka,MW312,12,District,Liwonde Town,MW31221,21,Traditional Area,-15.05618452,35.20483297
+184980,Malawi,MWI,MW,Southern,MW3,3,Region,Neno,MW313,13,District,TA Dambe,MW31301,1,Traditional Area,-15.36807826,34.58907185
+184981,Malawi,MWI,MW,Southern,MW3,3,Region,Neno,MW313,13,District,TA Mlauli,MW31302,2,Traditional Area,-15.59199985,34.65364688
+184982,Malawi,MWI,MW,Southern,MW3,3,Region,Neno,MW313,13,District,TA Symon Likongwe,MW31303,3,Traditional Area,-15.43484526,34.81176033
+184983,Malawi,MWI,MW,Southern,MW3,3,Region,Neno,MW313,13,District,TA Chekucheku,MW31304,4,Traditional Area,-15.33265408,34.71098075
+184984,Malawi,MWI,MW,Southern,MW3,3,Region,Neno,MW313,13,District,Neno Boma,MW31320,20,Traditional Area,-15.39332057,34.65223252
+184985,Malawi,MWI,MW,Southern,MW3,3,Region,Zomba City,MW314,14,District,Mpira Ward,MW31431,31,Traditional Area,-15.41201678,35.3380174
+184986,Malawi,MWI,MW,Southern,MW3,3,Region,Zomba City,MW314,14,District,Mbedza Ward,MW31432,32,Traditional Area,-15.40055324,35.30040969
+184987,Malawi,MWI,MW,Southern,MW3,3,Region,Zomba City,MW314,14,District,Chinamwali Ward,MW31433,33,Traditional Area,-15.37625948,35.36021619
+184988,Malawi,MWI,MW,Southern,MW3,3,Region,Zomba City,MW314,14,District,Chirunga Ward,MW31434,34,Traditional Area,-15.38938294,35.3466959
+184989,Malawi,MWI,MW,Southern,MW3,3,Region,Zomba City,MW314,14,District,Mtiya Ward,MW31435,35,Traditional Area,-15.38378908,35.30417249
+184990,Malawi,MWI,MW,Southern,MW3,3,Region,Zomba City,MW314,14,District,Masongola Ward,MW31436,36,Traditional Area,-15.37183696,35.33613247
+184991,Malawi,MWI,MW,Southern,MW3,3,Region,Zomba City,MW314,14,District,Zomba Central Ward,MW31437,37,Traditional Area,-15.39002835,35.32341962
+184992,Malawi,MWI,MW,Southern,MW3,3,Region,Zomba City,MW314,14,District,Likangala Ward,MW31438,38,Traditional Area,-15.39602092,35.3318565
+184993,Malawi,MWI,MW,Southern,MW3,3,Region,Zomba City,MW314,14,District,Chambo Ward,MW31439,39,Traditional Area,-15.39890568,35.31690295
+184994,Malawi,MWI,MW,Southern,MW3,3,Region,Zomba City,MW314,14,District,Sadzi Ward,MW31440,40,Traditional Area,-15.41224392,35.31586715
+184995,Malawi,MWI,MW,Southern,MW3,3,Region,Blantyre City,MW315,15,District,Michiru Ward,MW31531,31,Traditional Area,-15.73041039,35.00918707
+184996,Malawi,MWI,MW,Southern,MW3,3,Region,Blantyre City,MW315,15,District,South Lunzu Ward,MW31532,32,Traditional Area,-15.73268766,35.05409933
+184997,Malawi,MWI,MW,Southern,MW3,3,Region,Blantyre City,MW315,15,District,Mapanga Ward,MW31533,33,Traditional Area,-15.75019003,35.09580543
+184998,Malawi,MWI,MW,Southern,MW3,3,Region,Blantyre City,MW315,15,District,Nkolokoti Ward,MW31534,34,Traditional Area,-15.78430669,35.06663645
+184999,Malawi,MWI,MW,Southern,MW3,3,Region,Blantyre City,MW315,15,District,Ndirande Matope Ward,MW31535,35,Traditional Area,-15.77850786,35.04833698
+185000,Malawi,MWI,MW,Southern,MW3,3,Region,Blantyre City,MW315,15,District,Ndirande Makata Ward,MW31536,36,Traditional Area,-15.76481874,35.04367997
+185001,Malawi,MWI,MW,Southern,MW3,3,Region,Blantyre City,MW315,15,District,Ndirande Gamulani Ward,MW31537,37,Traditional Area,-15.75494256,35.03754053
+185002,Malawi,MWI,MW,Southern,MW3,3,Region,Blantyre City,MW315,15,District,Nyambadwe Ward,MW31538,38,Traditional Area,-15.76743296,35.02192482
+185003,Malawi,MWI,MW,Southern,MW3,3,Region,Blantyre City,MW315,15,District,Mbayani Ward,MW31539,39,Traditional Area,-15.77043173,35.00469962
+185004,Malawi,MWI,MW,Southern,MW3,3,Region,Blantyre City,MW315,15,District,Chilomoni Ward,MW31540,40,Traditional Area,-15.7612377,34.98240455
+185005,Malawi,MWI,MW,Southern,MW3,3,Region,Blantyre City,MW315,15,District,Blantyre City Centre Ward,MW31541,41,Traditional Area,-15.79264395,34.99308628
+185006,Malawi,MWI,MW,Southern,MW3,3,Region,Blantyre City,MW315,15,District,Namalimwe Ward,MW31542,42,Traditional Area,-15.78984989,35.02753572
+185007,Malawi,MWI,MW,Southern,MW3,3,Region,Blantyre City,MW315,15,District,Limbe Central Ward,MW31543,43,Traditional Area,-15.80818199,35.05969461
+185008,Malawi,MWI,MW,Southern,MW3,3,Region,Blantyre City,MW315,15,District,Mzedi Ward,MW31544,44,Traditional Area,-15.81118324,35.10292047
+185009,Malawi,MWI,MW,Southern,MW3,3,Region,Blantyre City,MW315,15,District,Bangwe Ward,MW31545,45,Traditional Area,-15.82825037,35.08859655
+185010,Malawi,MWI,MW,Southern,MW3,3,Region,Blantyre City,MW315,15,District,Bangwe Mthandizi Ward,MW31546,46,Traditional Area,-15.82122789,35.07215034
+185011,Malawi,MWI,MW,Southern,MW3,3,Region,Blantyre City,MW315,15,District,Soche East Ward,MW31547,47,Traditional Area,-15.80879819,35.0227626
+185012,Malawi,MWI,MW,Southern,MW3,3,Region,Blantyre City,MW315,15,District,Blantyre South Ward,MW31548,48,Traditional Area,-15.80756498,34.99755005
+185013,Malawi,MWI,MW,Southern,MW3,3,Region,Blantyre City,MW315,15,District,Green Corner Ward,MW31549,49,Traditional Area,-15.8328626,34.99409022
+185014,Malawi,MWI,MW,Southern,MW3,3,Region,Blantyre City,MW315,15,District,Soche West Ward,MW31550,50,Traditional Area,-15.83181768,35.02251608
+185015,Malawi,MWI,MW,Southern,MW3,3,Region,Blantyre City,MW315,15,District,Namiyango Ward,MW31551,51,Traditional Area,-15.83961213,35.08265692
+185016,Malawi,MWI,MW,Southern,MW3,3,Region,Blantyre City,MW315,15,District,Chigumula Ward,MW31552,52,Traditional Area,-15.86767379,35.07830043
+185017,Malawi,MWI,MW,Southern,MW3,3,Region,Blantyre City,MW315,15,District,Misesa Ward,MW31553,53,Traditional Area,-15.84127708,35.04702068

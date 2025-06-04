@@ -1,15 +1,23 @@
 [workspace]
+authors = ["Brian Mc Donald <brian@brianmcdonald.me>"]
 channels = ["conda-forge"]
 name = "malawi"
-platforms = ["win-64"]
+platforms = ["osx-arm64"]
 version = "0.1.0"
 
 [tasks]
 
 [dependencies]
-quarto = ">=1.6.42,<2"
-python = ">=3.8.0,<3.14"
-jupyter = ">=1.1.1,<2"
+python = ">=3.13.3,<3.14"
+jupyterlab = ">=4.4.3,<5"
+polars = ">=1.30.0,<2"
+lonboard = ">=0.10.4,<0.11"
+matplotlib = ">=3.10.3,<4"
+pandas = ">=2.2.3,<3"
+numpy = ">=2.2.6,<3"
+geopandas = ">=1.1.0,<2"
+fastexcel = ">=0.14.0,<0.15"
+contextily = ">=1.6.2,<2"
 
 [pypi-dependencies]
-polars = { version = "*", extras = ["deltalake"] }
+lonboard = "*"
