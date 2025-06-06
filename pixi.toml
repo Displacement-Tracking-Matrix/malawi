@@ -18,6 +18,9 @@ numpy = ">=2.2.6,<3"
 geopandas = ">=1.1.0,<2"
 fastexcel = ">=0.14.0,<0.15"
 contextily = ">=1.6.2,<2"
+azure-identity = ">=1.23.0,<2"
+azure-storage-file-datalake = ">=12.20.0,<13"
+pyarrow = ">=20.0.0,<21"
 
 [pypi-dependencies]
 lonboard = "*"
