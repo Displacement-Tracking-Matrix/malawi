@@ -37,7 +37,7 @@ Data was collected in 78 Traditional Authorities, in 10 Districts, in 1 Province
 
 ::: {#fig-map-coverage}
 
-![]({{< placeholder 800 400 format=svg >}}){.lightbox}
+![](figures/fig-map-coverage.svg){.lightbox}
 
 Map of Traditional Authorities covered by the assessment.
 
@@ -64,11 +64,11 @@ Number of assessed locations with the number of locations with arrivals; departu
 
 ::: {#fig-movetype layout-ncol=3}
 
-![Arrivals]({{< placeholder 400 200 format=svg >}}){#fig-map-locations-arrivals .lightbox}
+![Arrivals](figures/fig-map-locations-arrivals.svg){#fig-map-locations-arrivals .lightbox}
 
-![Departures]({{< placeholder 400 200 format=svg >}}){#fig-map-locations-departures .lightbox}
+![Departures](figures/fig-map-locations-departures.svg){#fig-map-locations-departures .lightbox}
 
-![Returns]({{< placeholder 400 200 format=svg >}}){#fig-map-locations-returns .lightbox}
+![Returns](figures/fig-map-locations-returns.svg){#fig-map-locations-returns .lightbox}
 
 Map of assessed locations by movement type
 :::
@@ -123,7 +123,7 @@ Demographic breakdown for arrivals and returnees.
 
 {{< lipsum  1 >}}
 
-::: {#fig-bar-loc-urban layout-ncol=2}
+::: {#fig-bar-urban layout-ncol=2}
 
 ![Locations]({{< placeholder 400 200 format=svg >}}){#fig-bar-loc-urban}
 
