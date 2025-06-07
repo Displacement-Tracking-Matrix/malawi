@@ -84,6 +84,8 @@ Co-occurance of population types in assessed locations.
 
 :::
 
+[add a bar chart of settle ment types]
+
 ::: {#fig-bar-loc-settlementtype}
 
 ![]({{< placeholder 800 400 format=svg >}}){.lightbox}
