@@ -37,7 +37,7 @@ Data was collected in 78 Traditional Authorities, in 10 Districts, in 1 Province
 
 ::: {#fig-map-coverage}
 
-![](figures/fig-map-coverage.svg){.lightbox}
+![](figures/fig-map-coverage.svg){.lightbox fig-align="center"}
 
 Map of Traditional Authorities covered by the assessment.
 
@@ -73,7 +73,15 @@ Number of assessed locations with the number of locations with arrivals; departu
 Map of assessed locations by movement type
 :::
 
-{{< lipsum 1 >}}
+Of the 776 assessed locations, a combination of arrivals, departures and returnees (154 locations) was more common than any other combination.
+
+::: {#fig-upset-movement-types}
+
+![](figures/fig-upset-movement-types.svg){.lightbox fig-align="center"}
+
+Co-occurance of population types in assessed locations.
+
+:::
 
 ::: {#fig-bar-loc-settlementtype}
 

@@ -21,6 +21,7 @@ contextily = ">=1.6.2,<2"
 azure-identity = ">=1.23.0,<2"
 azure-storage-file-datalake = ">=12.20.0,<13"
 pyarrow = ">=20.0.0,<21"
+upsetplot = ">=0.9.0,<0.10"
 
 [pypi-dependencies]
 lonboard = "*"
