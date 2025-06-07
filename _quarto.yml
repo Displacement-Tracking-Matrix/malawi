@@ -15,7 +15,7 @@ website:
   sidebar: true
  
   navbar:
-    search: true
+    search: false
     pinned: true
     bread-crumbs: true
     logo: "assets/logo.png"
