@@ -2,28 +2,31 @@ project:
   type: website
   render: 
     - index.qmd
-    - other.qmd
   output-dir: "docs"
 
 tbl-cap-location: top
-# favicon: assets/icon.png
+favicon: assets/icon.png
 open-graph: true
   
   
 website:
-  title: '![](assets/logo.svg){width=120} Malawi | Drought Response'
+  title: 'Malawi | Drought Response'
+  page-navigation: true
+  sidebar: true
+ 
   navbar:
-    left:
-       - href: index.qmd
-         text: " "
-      # - href: other.qmd
-      #   text: "Page2"
+    search: true
+    pinned: true
+    bread-crumbs: true
+    logo: "assets/logo.png"
+ 
   announcement: 
     icon: info-circle
     dismissable: true
     content: "**Alert** - this analysis is for demonstration purposes only."
     type: warning
     position: below-navbar
+
   page-footer: 
     background: primary
     foreground: white
@@ -39,7 +42,8 @@ website:
 format:
   html:
     theme: [cosmo, custom.scss]
-    fig-align: left
+    lightbox: true
+    fig-align: center
     number-sections: true
     html-table-processing: none
     self-contained: true
@@ -53,7 +57,7 @@ format:
     other-links:
       - text: Displacement Tracking Matrix
         href: https://dtm.iom.int/
-      - text: International Organization for Migration
+      - text: IOM
         href: https://www.iom.int/
       - text: Data download (external)
         icon: file-excel
@@ -61,11 +65,11 @@ format:
       - text: Report download (external)
         icon: file-pdf
         href: index.qmd
-  typst: 
-    toc: true
-    section-numbering: 1.1.a
-    columns: 2
-    mainfont: "Roboto"
+  # typst: 
+  #   toc: true
+  #   section-numbering: 1.1.a
+  #   columns: 2
+  #   mainfont: "Roboto"
   #epub: default
   # revealjs: default
 
