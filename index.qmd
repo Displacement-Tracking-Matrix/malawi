@@ -13,7 +13,11 @@ title-block-banner: "#0033A0"
 
 {{< lipsum 1 >}}
 
-### Assessment period
+### About
+
+- *Assessment period*
+- *Partners*
+- *Contact*
 
 {{< lipsum 1 >}}
 
@@ -36,13 +40,27 @@ Data was collected through onsite and online methods, depending on accessibility
 Data was collected in 78 Traditional Authorities, in 10 Districts, in 1 Province.
 
 
-::: {#fig-map-coverage}
+::: {#fig-map-coverage layout-ncol=2 fig-align="center"}
 
-![](figures/fig-map-coverage.svg){.lightbox fig-align="center"}
+![Districts](figures/fig-map-static-coverage-adm2.png){#fig-map-static-coverage-adm2 .lightbox  fig-align="left"}
 
-Map of Traditional Authorities covered by the assessment.
+![Traditional Authorities](figures/fig-map-static-coverage-adm3.png){#fig-map-static-coverage-adm3 .lightbox  fig-align="right"}
+
+Map of Districts and Traditional Authorities covered by assessments.
 
 :::
+
+::: {#fig-map-coverage-interactive }
+
+```{=html}
+<div align="center">
+<iframe width="800" height="600" src="figures/map.html"></iframe>
+</div>
+```
+Interactive map of assessed locations
+
+:::
+
 
 #### Limitations
 
@@ -58,9 +76,10 @@ The maps used in this dashboard are for illustration purposes only. Names and bo
 
 ## Overview
 
+### Movement types
 Number of assessed locations with the number of locations with arrivals; departures and returnees.
 
-67 locations reported [arrivals]{style="background-color: #F09362;"}; 59 locations reported [departures]{style="background-color: #F7CC69;"}; and 60 locations reported [returnees]{style="background-color: #94C8C4;"} (the maps will use the highlight colors.)
+444 locations reported [arrivals]{style="background-color: #F09362;"}; 388 locations reported [departures]{style="background-color: #F7CC69;"}; and 313 locations reported [returnees]{style="background-color: #94C8C4;"} (the maps will use the highlight colors.)
 
 
 ::: {#fig-movetype layout-ncol=3}
@@ -84,19 +103,25 @@ Co-occurance of population types in assessed locations.
 
 :::
 
-[add a bar chart of settle ment types]
+Assessed locations with arrivals, departures and returns were most common, closely followed by assessed location without any of the three. The third-most common occurrance were locations with just arrivals.
 
-::: {#fig-bar-loc-settlementtype}
+### Site characteristics
 
-![]({{< placeholder 800 400 format=svg >}}){.lightbox}
+::: {#fig-hbar-loc-settlement-type  layout-ncol=2}
 
-Number of assessed locations by settlement type
+![Assessment locations](figures/fig-hbar-location-site-types.svg){#fig-hbar-loc-settlement-type-locations .lightbox  fig-align="left"}
+
+![IDP population](figures/fig-hbar-population-site-types.svg){#fig-hbar-loc-settlement-type-population .lightbox  fig-align="left"}
+
+Number of assessed locations and IDPS by settlement type
 
 :::
 
-::: {#fig-bar-loc-urban}
+The vast majority of assessed locations contained dispersed displacement rather than camps, informal settlements or collective centres.
 
-{{< lipsum 1 >}}
+
+
+::: {#fig-bar-loc-urban}
 
 ![]({{< placeholder 800 400 format=svg >}}){.lightbox}
 
@@ -104,7 +129,7 @@ Number of assessed locations by urban/rural classification.
 
 :::
 
-
+{{< lipsum 1 >}}
 
 ## Displacement
 
