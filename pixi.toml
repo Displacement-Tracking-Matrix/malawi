@@ -22,6 +22,12 @@ azure-identity = ">=1.23.0,<2"
 azure-storage-file-datalake = ">=12.20.0,<13"
 pyarrow = ">=20.0.0,<21"
 upsetplot = ">=0.9.0,<0.10"
+pyspark = ">=4.0.0,<5"
+delta-spark = ">=2.4.0,<3"
+pyodbc = ">=5.2.0,<6"
+sqlalchemy = ">=2.0.41,<3"
+adlfs = ">=2024.12.0,<2025"
 
 [pypi-dependencies]
 lonboard = "*"
+deltalake = ">=1.0.2, <2"
